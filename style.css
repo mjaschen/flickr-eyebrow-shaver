@@ -1,0 +1,7 @@
+#eyebrow {
+    display: none !important;
+}
+
+body.with-eyebrow #global-nav {
+    top: 0 !important;
+}
