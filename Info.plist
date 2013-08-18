@@ -9,13 +9,13 @@
 	<key>CFBundleDisplayName</key>
 	<string>Flickr Eyebrow Shaver</string>
 	<key>CFBundleIdentifier</key>
-	<string>de.marcusjaschen.flickreyebrowshaver</string>
+	<string>de.marcusjaschen.safari.flickr-eyebrow-shaver</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.0</string>
+	<string>1.0.3</string>
 	<key>CFBundleVersion</key>
-	<string>1</string>
+	<string>1.0.3</string>
 	<key>Chrome</key>
 	<dict/>
 	<key>Content</key>
@@ -46,8 +46,8 @@
 		</dict>
 	</dict>
 	<key>Update Manifest URL</key>
-	<string>http://files.marcusjaschen.de/safari/flickr_eyebrow_shaver.plist</string>
+	<string>http://files.marcusjaschen.de/safari/flickr-eyebrow-shaver/manifest.plist</string>
 	<key>Website</key>
-	<string>http://marcusjachen.de/</string>
+	<string>http://marcusjaschen.de/</string>
 </dict>
 </plist>
